@@ -23,6 +23,8 @@ sites:
     url: https://radio.yaourt.org/
   - name: casse-tete.solutions
     url: http://www.casse-tete.solutions/
+  - name: copineetcoquine.com
+    url: https://copineetcoquine.com/
   - name: reporters.ultre.me
     url: https://reporters.ultre.me
 
