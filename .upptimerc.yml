@@ -9,6 +9,20 @@ sites:
     url: https://camembertaulaitcrew.biz
   - name: calendrier.ultre.me
     url: https://calendrier.ultre.me
+  - name: m1ch3l.biz
+    url: https://m1ch3l.biz
+  - name: blog.m1ch3l.biz
+    url: https://blog.m1ch3l.biz
+  - name: radio.m1ch3l.biz
+    url: https://radio.m1ch3l.biz/
+  - name: salutcestcool.com
+    url: http://salutcestcool.com/
+  - name: radio.casse-tete.solutions
+    url: http://radio.casse-tete.solutions/
+  - name: radio.yaourt.org
+    url: https://radio.yaourt.org/
+  - name: casse-tete.solutions
+    url: http://www.casse-tete.solutions/
   - name: reporters.ultre.me
     url: https://reporters.ultre.me
 
