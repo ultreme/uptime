@@ -5,12 +5,12 @@ repo: uptime # The name of this repository
 sites:
   - name: ultre.me
     url: https://ultre.me
+  - name: camembertaulaitcrew.biz
+    url: https://camembertaulaitcrew.biz
   - name: calendrier.ultre.me
     url: https://calendrier.ultre.me
   - name: reporters.ultre.me
     url: https://reporters.ultre.me
-  - name: camembertaulaitcrew.biz
-    url: https://camembertaulaitcrew.biz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
