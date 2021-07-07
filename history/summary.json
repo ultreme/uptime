@@ -22,9 +22,9 @@
     "url": "https://camembertaulaitcrew.biz",
     "icon": "https://favicons.githubusercontent.com/camembertaulaitcrew.biz",
     "slug": "camembertaulaitcrew-biz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 391,
     "timeMonth": 391,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-07": 0
+    }
   },
   {
     "name": "calendrier.ultre.me",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/www.m1ch3l.biz",
     "slug": "m1ch3l-biz",
     "status": "up",
-    "uptime": "80.62%",
+    "uptime": "81.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.62%",
-    "uptimeMonth": "80.62%",
-    "uptimeYear": "80.62%",
+    "uptimeWeek": "81.38%",
+    "uptimeMonth": "81.38%",
+    "uptimeYear": "81.38%",
     "time": 91,
     "timeDay": 65,
     "timeWeek": 91,
