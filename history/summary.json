@@ -87,19 +87,19 @@
     "url": "https://blog.m1ch3l.biz",
     "icon": "https://favicons.githubusercontent.com/blog.m1ch3l.biz",
     "slug": "blog-m1ch3l-biz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 393,
-    "timeWeek": 273,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 228,
+    "timeDay": 279,
+    "timeWeek": 260,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2021-07-13": 0
+      "2021-07-13": 7
     }
   },
   {
