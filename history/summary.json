@@ -223,18 +223,19 @@
     "url": "https://reporters.ultre.me",
     "icon": "https://favicons.githubusercontent.com/reporters.ultre.me",
     "slug": "reporters-ultre-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 199,
-    "timeDay": 364,
-    "timeWeek": 164,
-    "timeMonth": 193,
-    "timeYear": 199,
+    "time": 198,
+    "timeDay": 248,
+    "timeWeek": 160,
+    "timeMonth": 191,
+    "timeYear": 198,
     "dailyMinutesDown": {
+      "2021-08-16": 0,
       "2021-07-12": 5
     }
   }
