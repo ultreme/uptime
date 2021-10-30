@@ -160,9 +160,9 @@
     "url": "http://radio.casse-tete.solutions/",
     "icon": "https://favicons.githubusercontent.com/radio.casse-tete.solutions",
     "slug": "radio-casse-tete-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,7 +171,9 @@
     "timeWeek": 407,
     "timeMonth": 392,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-30": 0
+    }
   },
   {
     "name": "radio.yaourt.org",
