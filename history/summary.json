@@ -142,9 +142,9 @@
     "url": "http://salutcestcool.com/",
     "icon": "https://favicons.githubusercontent.com/salutcestcool.com",
     "slug": "salutcestcool-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -154,6 +154,7 @@
     "timeMonth": 277,
     "timeYear": 290,
     "dailyMinutesDown": {
+      "2021-12-15": 0,
       "2021-08-04": 6,
       "2021-07-31": 6
     }
