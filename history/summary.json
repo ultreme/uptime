@@ -154,11 +154,11 @@
     "icon": "https://favicons.githubusercontent.com/salutcestcool.com",
     "slug": "salutcestcool-com",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 290,
     "timeDay": 376,
     "timeWeek": 290,
@@ -177,9 +177,9 @@
     "url": "http://radio.casse-tete.solutions/",
     "icon": "https://favicons.githubusercontent.com/radio.casse-tete.solutions",
     "slug": "radio-casse-tete-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -189,6 +189,7 @@
     "timeMonth": 534,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2022-02-13": 0,
       "2022-02-10": 21,
       "2021-10-30": 10
     }
