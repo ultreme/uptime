@@ -54,7 +54,7 @@
     "timeMonth": 382,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2022-05-17": 1143,
+      "2022-05-17": 1148,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
@@ -379,9 +379,9 @@
     "url": "https://reporters.ultre.me",
     "icon": "https://favicons.githubusercontent.com/reporters.ultre.me",
     "slug": "reporters-ultre-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
@@ -391,6 +391,7 @@
     "timeMonth": 333,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-05-02": 18,
       "2022-04-19": 27,
       "2022-04-14": 28,
