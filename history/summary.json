@@ -58,7 +58,7 @@
     "timeMonth": 413,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-09-15": 1171,
+      "2022-09-15": 1179,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -317,19 +317,19 @@
     "url": "https://www.m1ch3l.biz",
     "icon": "https://favicons.githubusercontent.com/www.m1ch3l.biz",
     "slug": "m1ch3l-biz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 99,
-    "timeDay": 131,
-    "timeWeek": 93,
-    "timeMonth": 102,
-    "timeYear": 95,
+    "timeDay": 138,
+    "timeWeek": 99,
+    "timeMonth": 103,
+    "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-09-15": 26
+      "2022-09-15": 34
     }
   },
   {
@@ -372,19 +372,19 @@
     "url": "https://radio.m1ch3l.biz/",
     "icon": "https://favicons.githubusercontent.com/radio.m1ch3l.biz",
     "slug": "radio-m1ch3l-biz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 91,
-    "timeDay": 123,
-    "timeWeek": 89,
+    "timeDay": 120,
+    "timeWeek": 91,
     "timeMonth": 103,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-09-15": 26
+      "2022-09-15": 34
     }
   },
   {
@@ -443,19 +443,19 @@
     "url": "https://radio.yaourt.org/",
     "icon": "https://favicons.githubusercontent.com/radio.yaourt.org",
     "slug": "radio-yaourt-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 170,
-    "timeDay": 171,
-    "timeWeek": 159,
-    "timeMonth": 180,
+    "time": 171,
+    "timeDay": 211,
+    "timeWeek": 174,
+    "timeMonth": 183,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-09-15": 26
+      "2022-09-15": 34
     }
   },
   {
