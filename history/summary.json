@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/camembertaulaitcrew.biz.ico",
     "slug": "camembertaulaitcrew-biz",
     "status": "down",
-    "uptime": "48.16%",
+    "uptime": "48.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -58,7 +58,7 @@
     "timeMonth": 679,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2023-03-24": 2,
+      "2023-03-24": 1311,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
