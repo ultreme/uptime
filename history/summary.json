@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/camembertaulaitcrew.biz.ico",
     "slug": "camembertaulaitcrew-biz",
     "status": "down",
-    "uptime": "45.29%",
+    "uptime": "45.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -55,7 +55,7 @@
     "timeMonth": 534,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-05-03": 1,
+      "2023-05-03": 325,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -461,9 +461,9 @@
     "url": "http://salutcestcool.com/",
     "icon": "https://icons.duckduckgo.com/ip3/salutcestcool.com.ico",
     "slug": "salutcestcool-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -473,6 +473,7 @@
     "timeMonth": 320,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-03-08": 5,
       "2023-01-25": 85
     }
