@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 185,
-    "timeWeek": 181,
-    "timeMonth": 218,
-    "timeYear": 215,
+    "timeDay": 98,
+    "timeWeek": 155,
+    "timeMonth": 210,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2024-01-03": 7,
       "2023-09-21": 6
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/camembertaulaitcrew.biz.ico",
     "slug": "camembertaulaitcrew-biz",
     "status": "down",
-    "uptime": "29.74%",
+    "uptime": "29.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "7.72%",
-    "time": 531,
-    "timeDay": 716,
-    "timeWeek": 563,
-    "timeMonth": 585,
-    "timeYear": 537,
+    "time": 530,
+    "timeDay": 427,
+    "timeWeek": 569,
+    "timeMonth": 581,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-07-24": 2,
+      "2024-07-25": 2,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -372,8 +373,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   },
   {
@@ -388,9 +388,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 252,
-    "timeWeek": 207,
-    "timeMonth": 200,
+    "timeDay": 193,
+    "timeWeek": 201,
+    "timeMonth": 203,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2024-03-16": 6,
@@ -409,13 +409,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 55,
-    "timeWeek": 83,
-    "timeMonth": 105,
+    "timeDay": 104,
+    "timeWeek": 87,
+    "timeMonth": 101,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2023-07-26": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog.m1ch3l.biz",
@@ -423,18 +421,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.m1ch3l.biz.ico",
     "slug": "blog-m1ch3l-biz",
     "status": "down",
-    "uptime": "91.21%",
+    "uptime": "91.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "73.13%",
+    "uptimeYear": "72.86%",
     "time": 180,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2024-07-24": 2,
+      "2024-07-25": 2,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -533,8 +532,7 @@
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
-      "2024-04-16": 70,
-      "2023-07-26": 11
+      "2024-04-16": 70
     }
   },
   {
@@ -548,14 +546,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 39,
-    "timeWeek": 132,
-    "timeMonth": 125,
+    "time": 122,
+    "timeDay": 118,
+    "timeWeek": 137,
+    "timeMonth": 120,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2023-07-26": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "salutcestcool.com",
@@ -569,9 +565,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 345,
-    "timeDay": 251,
-    "timeWeek": 312,
-    "timeMonth": 308,
+    "timeDay": 306,
+    "timeWeek": 324,
+    "timeMonth": 304,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2024-06-06": 6,
@@ -596,10 +592,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 645,
-    "timeDay": 852,
-    "timeWeek": 681,
-    "timeMonth": 694,
+    "time": 647,
+    "timeDay": 1041,
+    "timeWeek": 767,
+    "timeMonth": 706,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2024-02-05": 236,
@@ -619,9 +615,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 212,
+    "timeDay": 230,
     "timeWeek": 166,
-    "timeMonth": 209,
+    "timeMonth": 205,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -637,10 +633,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 158,
-    "timeWeek": 156,
-    "timeMonth": 199,
-    "timeYear": 178,
+    "timeDay": 73,
+    "timeWeek": 136,
+    "timeMonth": 195,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -655,10 +651,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 253,
-    "timeDay": 309,
-    "timeWeek": 216,
-    "timeMonth": 243,
-    "timeYear": 261,
+    "timeDay": 323,
+    "timeWeek": 227,
+    "timeMonth": 246,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2023-12-26": 60,
       "2023-12-24": 51,
@@ -681,9 +677,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 385,
-    "timeWeek": 275,
-    "timeMonth": 286,
+    "timeDay": 139,
+    "timeWeek": 223,
+    "timeMonth": 278,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-03-16": 12,
