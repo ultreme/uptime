@@ -1,7 +1,7 @@
 url: https://calendrier.ultre.me
-status: up
-code: 200
-responseTime: 280
-lastUpdated: 2025-06-19T23:06:07.603Z
+status: down
+code: 500
+responseTime: 2140
+lastUpdated: 2025-06-19T23:37:42.380Z
 startTime: 2021-07-02T10:18:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
