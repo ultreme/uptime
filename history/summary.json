@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/camembertaulaitcrew.biz.ico",
     "slug": "camembertaulaitcrew-biz",
     "status": "down",
-    "uptime": "22.64%",
+    "uptime": "22.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -38,7 +38,7 @@
     "timeMonth": 606,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-07-10": 3,
+      "2025-07-10": 1288,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -453,7 +453,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.m1ch3l.biz.ico",
     "slug": "blog-m1ch3l-biz",
     "status": "down",
-    "uptime": "69.41%",
+    "uptime": "69.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 3,
+      "2025-07-10": 1288,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -934,18 +934,20 @@
     "url": "http://www.casse-tete.solutions/",
     "icon": "https://icons.duckduckgo.com/ip3/www.casse-tete.solutions.ico",
     "slug": "casse-tete-solutions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 159,
-    "timeWeek": 178,
-    "timeMonth": 208,
+    "time": 206,
+    "timeDay": 154,
+    "timeWeek": 174,
+    "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "copineetcoquine.com",
