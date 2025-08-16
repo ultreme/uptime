@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/camembertaulaitcrew.biz.ico",
     "slug": "camembertaulaitcrew-biz",
     "status": "down",
-    "uptime": "22.08%",
+    "uptime": "22.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,7 @@
     "timeMonth": 830,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
+      "2025-08-16": 586,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -453,7 +453,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.m1ch3l.biz.ico",
     "slug": "blog-m1ch3l-biz",
     "status": "down",
-    "uptime": "67.70%",
+    "uptime": "67.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 3,
+      "2025-08-16": 586,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -955,9 +955,9 @@
     "url": "https://copineetcoquine.com/",
     "icon": "https://icons.duckduckgo.com/ip3/copineetcoquine.com.ico",
     "slug": "copineetcoquine-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -967,6 +967,7 @@
     "timeMonth": 253,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-01-29": 8,
       "2024-11-01": 6
     }
