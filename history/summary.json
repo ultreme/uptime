@@ -41,7 +41,7 @@
     "timeMonth": 643,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-12-25": 2,
+      "2025-12-25": 263,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -470,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-25": 2,
+      "2025-12-25": 263,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -915,9 +915,9 @@
     "url": "https://radio.yaourt.org/",
     "icon": "https://icons.duckduckgo.com/ip3/radio.yaourt.org.ico",
     "slug": "radio-yaourt-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -926,7 +926,9 @@
     "timeWeek": 323,
     "timeMonth": 300,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-25": 0
+    }
   },
   {
     "name": "casse-tete.solutions",
